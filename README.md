@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFAA&size=25&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning;Healthcare+AI+Researcher;B.Tech+Final+Year+Student)
 
 ![Banner](banner.png)
-## Hi 👋 I'm Gwen
+## Hi 👋 I'm Priya sharma
 
 I'm a Computer Science and Engineering student at 
 Indian Institute of Technology Guwahati (IITG).
