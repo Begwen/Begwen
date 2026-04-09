@@ -1,16 +1,21 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFAA&size=25&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning;Healthcare+AI+Researcher;B.Tech+Final+Year+Student)
 
 ![Banner](banner.png)
-## Hi there 👋
-# I'm Priya Sharma 👋
-🎓 Final Year B.Tech Student  
-🧠 AI & Machine Learning Enthusiast  
-🏥 Working on Explainable AI for Diabetes Risk Prediction  
+## Hi 👋 I'm Gwen
 
-## 🚀 About Me
-I'm a Final Year B.Tech student passionate about Artificial Intelligence and Machine Learning.  
-Currently working on an Explainable AI based Diabetes Risk Prediction System as my BTP project.  
-I enjoy building ML systems and applying AI in healthcare.
+I'm a Computer Science and Engineering student at 
+Indian Institute of Technology Guwahati (IITG).
+
+I am passionate about Artificial Intelligence, Machine Learning,
+and Explainable AI, and I enjoy building intelligent systems
+that solve real-world problems.
+
+### About Me
+
+• CSE student at IIT Guwahati  
+• Interested in AI, Machine Learning, and Explainable AI  
+• Working on ML and NLP projects  
+• Always exploring new AI systems
 
 ## 🔬 Current Projects
 
