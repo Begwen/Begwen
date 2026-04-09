@@ -1,3 +1,6 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFAA&size=25&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning;Healthcare+AI+Researcher;B.Tech+Final+Year+Student)
+
+![Banner](banner.png)
 ## Hi there 👋
 # I'm Priya Sharma 👋
 🎓 Final Year B.Tech Student  
@@ -11,10 +14,9 @@ I enjoy building ML systems and applying AI in healthcare.
 
 ## 🔬 Current Projects
 
-### 🩺 Diabetes Risk Prediction using Explainable AI
-- Machine Learning based prediction
+### 🩺 Diabetes Risk Prediction
+- ML based prediction
 - SHAP explainability
-- Healthcare dataset
 - Python, Scikit-learn
 
 ### 📄 Context-Aware Document Retrieval
@@ -26,14 +28,15 @@ I enjoy building ML systems and applying AI in healthcare.
 - Prompt reconstruction
 
 ## 💻 Tech Stack
-- Python
-- Machine Learning
-- Pandas & NumPy
-- Scikit-learn
-- SHAP / LIME
-- Matplotlib
-- Git & GitHub
-- Jupyter Notebook
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge)
+
+## 🌱 Currently Learning
+- Explainable AI
+- Model interpretability
+- Healthcare ML
 
 ## 📊 GitHub Stats
 
@@ -46,3 +49,5 @@ I enjoy building ML systems and applying AI in healthcare.
 ## 📫 Connect With Me
 - LinkedIn: (https://www.linkedin.com/in/priya-sharma-998a59261/)
 - Email: (priyasharma2005mar@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Begwen&color=blue)
