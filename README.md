@@ -14,10 +14,18 @@ I enjoy building ML systems and applying AI in healthcare.
 
 ## 🔬 Current Projects
 
-### 🩺 Diabetes Risk Prediction
-- ML based prediction
-- SHAP explainability
-- Python, Scikit-learn
+Diabetes Risk Prediction
+
+Machine learning system to predict diabetes risk
+using clinical patient data.
+
+Features
+• Random Forest classifier
+• SHAP explainability
+• Data preprocessing and feature engineering
+
+Tech Stack
+Python | Pandas | Scikit-learn | SHAP
 
 ### 📄 Context-Aware Document Retrieval
 - NLP based retrieval
@@ -28,10 +36,7 @@ I enjoy building ML systems and applying AI in healthcare.
 - Prompt reconstruction
 
 ## 💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge)
+Python | TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy
 
 ## 🌱 Currently Learning
 - Explainable AI
